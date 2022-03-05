@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Eunice May C. Bandagosa
 - 🏫 BSIT Student in New Era University
 - 🌱 I’m currently learning Python
-- 📫 Reach me at emcbandagosa@gmail.com
