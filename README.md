@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Eunice May C. Bandagosa
-- 🏫 BSIT Student in New Era University
+- 🏫 BSIT Graduate from New Era University
 - 🌱 I’m currently learning Python
